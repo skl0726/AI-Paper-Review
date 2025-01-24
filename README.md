@@ -7,7 +7,7 @@
 Paper Review: [Notion](https://frost-crate-a82.notion.site/Spherical-CNNs-181f7e966c0e8012b88ad1bce7c23ffe?pvs=4)
 ### SPHARM-Net: Spherical Harmonics-Based Convolution for Cortical Parcellation
 Paper Review: [Notion](https://frost-crate-a82.notion.site/SPHARM-Net-Spherical-Harmonics-Based-Convolution-for-Cortical-Parcellation-181f7e966c0e806ba12fd2668d6874b3?pvs=4)<br/>
-PyTorch Code: [SPHARM-Net]()
+PyTorch Code: [SPHARM-Net](https://github.com/skl0726/AI-Paper-Review/tree/main/3D-Vision-Medical-AI/SPHARM-Net)
 <br/><br/>
 
 ## Transformer Based Vision Model
