@@ -9,6 +9,9 @@ Paper Review: [Notion](https://frost-crate-a82.notion.site/Spherical-CNNs-181f7e
 Paper Review: [Notion](https://frost-crate-a82.notion.site/SPHARM-Net-Spherical-Harmonics-Based-Convolution-for-Cortical-Parcellation-181f7e966c0e806ba12fd2668d6874b3?pvs=4)<br/>
 PyTorch Code: [SPHARM-Net](https://github.com/skl0726/AI-Paper-Review/tree/main/3D-Vision-Medical-AI/SPHARM-Net)
 <br/><br/>
+### TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation
+PyTorch Code: [TransUNet](https://github.com/skl0726/AI-Paper-Review/tree/main/3D-Vision-Medical-AI/TransUNet)
+<br/><br/>
 
 ## Transformer Based Vision Model
 ### Attention Is All You Need
