@@ -1,0 +1,5 @@
+[14:27:00.198] Namespace(root_path='./data/Synapse/train_npz', dataset='Synapse', list_dir='./lists/lists_Synapse', num_classes=9, max_iterations=30000, max_epochs=150, batch_size=24, n_gpu=1, deterministic=1, base_lr=0.01, img_size=224, seed=1234, n_skip=3, vit_name='R50-ViT-B_16', vit_patches_size=16, is_pretrain=True, exp='TU_Synapse224')
+[14:27:00.208] 93 iterations per epoch. 243 max iterations
+[14:27:11.400] iteration 1 : loss : 1.503541, loss_ce : 2.032666
+[14:27:57.399] Namespace(root_path='./data/Synapse/train_npz', dataset='Synapse', list_dir='./lists/lists_Synapse', num_classes=9, max_iterations=30000, max_epochs=150, batch_size=24, n_gpu=1, deterministic=1, base_lr=0.01, img_size=224, seed=1234, n_skip=3, vit_name='R50-ViT-B_16', vit_patches_size=16, is_pretrain=True, exp='TU_Synapse224')
+[14:27:57.407] 93 iterations per epoch. 243 max iterations
